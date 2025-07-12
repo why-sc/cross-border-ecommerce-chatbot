@@ -1,2 +1,1 @@
-# chatbot
-cross-border-ecommerce-chatbot
+# cross-border-ecommerce-chatbot
